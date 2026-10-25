@@ -1,5 +1,8 @@
 import os 
+
+#we are using oS Modules
+
 print(os.listdir())
 
 
-new print messssage willl be displayed
+print(os.getwd())
